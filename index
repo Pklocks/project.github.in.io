@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <body>
+            <style>
+
+                td{
+                    text-align:center;
+                }
+        
+                h1{
+                    text-align: center;
+                }
+            </style>
+            <table border="2" width="100%" hight="56%" style="border-collapse: collapse;">
+                <h1 style="color: rgb(7, 245, 90);">Assignment</h1>
+                <caption style="color: rgb(224, 38, 171);">jan's Spring Term 2006 Afternoon Schedule</caption>
+                    <tr>
+                        <th>Time</th>
+                        <th style="color: aqua;background-color: black;">Monday</th>
+                        <th style="color: aqua;background-color: black;">tuesday</th>
+                        <th style="color: aqua;background-color: black;">wednesday</th>
+                        <th style="color: aqua;background-color: black;">thursdar</th>
+                        <th style="color: aqua;background-color: black;">friday</th>
+                    </tr>
+                    <tr>
+                        <td style="color: rgb(251, 140, 4);">1:00</td>
+                        <td rowspan="2" style="background-color: aquamarine;">office</td>
+                        <td  style="background-color:rgb(43, 226, 202);">office</td>
+                        <td rowspan="2" style="background-color:rgb(46, 43, 226);">office</td>
+                        <td rowspan="8" style="background-color:rgb(226, 153, 43);">office hours by appe</td>
+                        <td rowspan="2" style="background-color:rgb(171, 226, 43);">css</td>
+                    </tr>
+                    <tr>
+                        <td style="color: rgb(251, 140, 4);">2:00</td>
+                        <td rowspan="2" style="background-color:rgb(43, 195, 226);">Dept Meeting</td>
+                    
+                    </tr>
+                    <tr>
+                        <td style="color: rgb(251, 140, 4);">3:00</td>
+                        <td rowspan="2" style="background-color:rgb(226, 43, 83);">MAT 108</td>
+                        <td rowspan="3" style="background-color:rgb(189, 48, 138);">CSC 2005</td>
+                        <td rowspan="3" style="background-color:rgb(43, 226, 101);">MAT</td>
+                    </tr>
+                    <tr>
+                        <td style="color: rgb(251, 140, 4);">4:00</td>
+                        <td  rowspan="2" style="background-color:rgb(43, 226, 208);">mat</td>
+                        
+                    </tr>
+                    <tr>
+                        <td style="color: rgb(251, 140, 4);">4:00</td>
+                        <td>5:00</td>
+                    </tr>
+                    <tr>
+                        <td style="color: rgb(251, 140, 4);">4:00</td>
+                        <td>6:00</td>
+                        <td  rowspan="2" style="background-color:rgb(25, 133, 119);">css</td>
+                        <td rowspan="3" style="background-color:rgb(56, 93, 168);">mat 108</td>
+                        <td rowspan="3" style="background-color:rgb(55, 177, 143);">office</td>
+                    </tr>
+                    <tr>
+                        <td style="color: rgb(251, 140, 4);">4:00</td>
+                        <td>7:00</td>
+                        </tr>
+            </table>
+        </body>
+    </head>
+</html>
